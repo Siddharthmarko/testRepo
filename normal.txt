@@ -1,5 +1,2 @@
-ye bhi change kare hai kyka chahiye samjhe ki nahi 
-
-chal le ayah apr add kar diya kuch bhi 
-
-one more line from website
+1. practice upading last commit with new changes
+2. this line add in previous commit 
